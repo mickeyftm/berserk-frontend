@@ -8,11 +8,11 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GOAT-USDC LP',
     decimal: 18,
     lpAddresses: {
-      137: '0xaad2eD7eC6039931EF11Da35084Bc4d2Ed07969A',
+      137: '0x9730b3f003a18101dfa1f106032ac22cd32cc0fd',
     },
     tokenSymbol: 'GOAT',
     tokenAddresses: {
-      137: '0xD40D22C658c97AC67360A1d46A0fD4922957417E',
+      137: '0xed050320cedd262a92d98ef02bf155ace366d49b',
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.usdc,
@@ -23,11 +23,11 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GOAT-WMATIC LP',
     decimal: 18,
     lpAddresses: {
-      137: '0x2955de3863e1A530938f492b2a2E46749A76E260',
+      137: '0x9a9166f59aa73715132e2c6c41884a73c389ab97',
     },
     tokenSymbol: 'WMATIC',
     tokenAddresses: {
-      137: '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270',
+      137: '0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270',
     },
     quoteTokenSymbol: QuoteToken.CAKE,
     quoteTokenAdresses: contracts.cake,
@@ -87,11 +87,11 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GOAT',
     decimal: 18,
     lpAddresses: {
-      137: '0xaad2eD7eC6039931EF11Da35084Bc4d2Ed07969A'
+      137: '0x9730b3f003a18101dfa1f106032ac22cd32cc0fd'
     },
     tokenSymbol: 'GOAT',
     tokenAddresses: {
-      137: '0xD40D22C658c97AC67360A1d46A0fD4922957417E'
+      137: '0xed050320cedd262a92d98ef02bf155ace366d49b'
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.usdc,
