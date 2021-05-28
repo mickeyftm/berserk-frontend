@@ -21,7 +21,10 @@ const Menu = (props) => {
       isDark={isDark}
       toggleTheme={toggleTheme}
       currentLang={selectedLanguage && selectedLanguage.code}
+      langs={allLanguages}
+      setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd.toNumber()}
+      links={config}
       priceLink="https://info.quickswap.exchange/token/0xD40D22C658c97AC67360A1d46A0fD4922957417E"
       {...props}
     />
