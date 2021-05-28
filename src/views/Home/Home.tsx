@@ -98,9 +98,9 @@ const Home: React.FC = () => {
        <Timer />
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {TranslateString(576, 'PolyGoat Finance')}
+          Berserk Finance
         </Heading>
-        <Text>{TranslateString(578, 'Last generation yield farming based on polygon')}</Text>
+        <Text>Latest generation yield farming based on polygon</Text>
       </Hero>
       <div>
         <Cards>
