@@ -24,7 +24,7 @@ const Menu = (props) => {
       langs={allLanguages}
       setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd.toNumber()}
-      links={config}
+      links={}
       priceLink="https://info.quickswap.exchange/token/0xD40D22C658c97AC67360A1d46A0fD4922957417E"
       {...props}
     />
