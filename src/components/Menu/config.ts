@@ -69,35 +69,18 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/PolyGoatFinance',
+        href: 'https://github.com/mickeyftm',
       },
       {
         label: 'Docs',
-        href: 'https://polygoat.gitbook.io/polygoat',
+        href: 'https://berserkfinance.gitbook.io/berserk/',
       },
     ],
   },
-  {
-    label: 'Audit by Solidity Finance',
-    icon: 'AuditIcon',
-    href: 'https://solidity.finance/audits/PolyGoat/',
-  },
+  // {
+  //  label: 'Audit by Solidity Finance',
+  //  icon: 'AuditIcon',
+  //  href: 'https://solidity.finance/audits/PolyGoat/',
+  // },
 ]
 export default config
-
-export const socials = [
-  {
-    label: "Telegram",
-    icon: "TelegramIcon",
-    href: "https://t.me/berserkfinance"
-  },
-  {
-    label: "Twitter",
-    icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceBerserk",
-  },
-]
-export const MENU_HEIGHT = 64;
-export const MENU_ENTRY_HEIGHT = 48;
-export const SIDEBAR_WIDTH_FULL = 240;
-export const SIDEBAR_WIDTH_REDUCED = 56;
