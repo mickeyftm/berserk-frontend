@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'GOAT-USDC LP',
+    lpSymbol: 'BRSK-USDC LP',
     decimal: 18,
     lpAddresses: {
       137: '0x9730b3f003a18101dfa1f106032ac22cd32cc0fd',
@@ -20,7 +20,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'GOAT-WMATIC LP',
+    lpSymbol: 'BRSK-WMATIC LP',
     decimal: 18,
     lpAddresses: {
       137: '0x9a9166f59aa73715132e2c6c41884a73c389ab97',
@@ -84,7 +84,7 @@ const farms: FarmConfig[] = [
     pid: 2,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'GOAT',
+    lpSymbol: 'BRSK',
     decimal: 18,
     lpAddresses: {
       137: '0x9730b3f003a18101dfa1f106032ac22cd32cc0fd'
