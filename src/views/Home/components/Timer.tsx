@@ -9,8 +9,8 @@ const minuteSeconds = 60;
 
   const timerProps = {
     isPlaying: true,
-    size: 120,
-    strokeWidth: 15,
+    size: 100,
+    strokeWidth: 10,
     trailColor: "#5c8757"
   };
 
@@ -44,7 +44,7 @@ const Timer = () => {
 
 
   const stratTime = Date.now() / 1000; // use UNIX timestamp in seconds
-  const endTime = 1621570011; // use UNIX timestamp in seconds
+  const endTime = 1622516400; // use UNIX timestamp in seconds
 
   const remainingTime = endTime - stratTime;
   const days = Math.ceil(remainingTime / daySeconds);

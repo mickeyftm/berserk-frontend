@@ -53,14 +53,14 @@ const config: MenuEntry[] = [
         label: 'QuickSwap',
         href: 'https://info.quickswap.exchange/token/0xD40D22C658c97AC67360A1d46A0fD4922957417E',
       },
-      {
-        label: 'Vfat Tools',
-        href: 'https://vfat.tools/polygon/polygoat',
-      },
-      {
-        label: 'DappRadar',
-        href: 'https://dappradar.com/polygon/defi/polygoat-finance',
-      },
+//      {
+//        label: 'Vfat Tools',
+//        href: 'https://vfat.tools/polygon/polygoat',
+//      },
+//      {
+//        label: 'DappRadar',
+//        href: 'https://dappradar.com/polygon/defi/polygoat-finance',
+//      },
     ],
   },
   {
