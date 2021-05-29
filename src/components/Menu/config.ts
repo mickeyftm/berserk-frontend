@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://quickswap.exchange/#/swap?outputCurrency=0xD40D22C658c97AC67360A1d46A0fD4922957417E',
+        href: 'https://quickswap.exchange/#/swap?outputCurrency=0xEd050320Cedd262a92D98EF02Bf155ACE366D49B',
       },
       {
         label: 'Liquidity',
@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'QuickSwap',
-        href: 'https://info.quickswap.exchange/token/0xD40D22C658c97AC67360A1d46A0fD4922957417E',
+        href: 'https://info.quickswap.exchange/token/0xEd050320Cedd262a92D98EF02Bf155ACE366D49B',
       },
 //      {
 //        label: 'Vfat Tools',
