@@ -9,7 +9,7 @@ const minuteSeconds = 60;
 
   const timerProps = {
     isPlaying: true,
-    size: 100,
+    size: 80,
     strokeWidth: 10,
     trailColor: "#5c8757"
   };
