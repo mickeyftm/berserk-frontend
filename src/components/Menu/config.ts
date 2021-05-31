@@ -31,8 +31,8 @@ const config: MenuEntry[] = [
     href: '/pools',
   },
   // {
-  //   label: 'Pools',
-  //   icon: 'PoolIcon',
+  //   label: 'Devidents',
+  //   icon: 'VaultsIcon',
   //   href: '/pools',
   // },
   // {
