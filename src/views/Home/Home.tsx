@@ -67,13 +67,13 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Hero>
-        <img src="/images/Title Bar.png" alt="brsk logo" width={950} height={225} />
-      </Hero>
-      <Hero>
       <Heading as="h1" size="xl" mb="24px" color="secondary" >
           {TranslateString(579, 'Yield Farming has begun.')}
         </Heading>
        <Timer />
+      </Hero>
+      <Hero>
+        <img src="/images/Title Bar.png" alt="brsk logo" width={950} height={225} />
       </Hero>
       <div>
         <Cards>
