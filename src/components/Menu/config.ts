@@ -30,6 +30,11 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: '/pools',
   },
+  {
+    label: 'Dividends',
+    icon: 'LayerIcon',
+    href: 'https://gameswap-frontend.vercel.app/profit',
+   },
   // {
   //   label: 'Devidents',
   //   icon: 'VaultsIcon',
