@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
   {
     label: 'Dividends',
     icon: 'LayerIcon',
-    href: 'https://gameswap-frontend.vercel.app/profit',
+    href: '/profit',
    },
   // {
   //   label: 'Devidents',
