@@ -97,6 +97,9 @@ const Home: React.FC = () => {
         </Heading>
        <Timer />
       <Hero>
+        <img src="/images/Title Bar.png" alt="brsk logo" width={950} height={225} />
+      </Hero>
+      <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           Berserk Finance
         </Heading>
