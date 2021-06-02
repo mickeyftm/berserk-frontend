@@ -17,11 +17,11 @@ const Hero = styled.div`
   justify-content: center;
   flex-direction: column;
   margin: auto;
-  margin-bottom: 12px;
+  margin-bottom: 32px;
   padding-top: 5px;
   text-align: center;
   position: relative;
-  z-index:2;
+  z-index:999;
   border-radius: 30px;
 
 
