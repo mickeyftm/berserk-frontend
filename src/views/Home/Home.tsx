@@ -24,21 +24,8 @@ const Hero = styled.div`
   z-index:2;
   border-radius: 30px;
 
-  &:before {
-    content: ' ';
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    opacity: 0.1;
-    background-image: url('/images/egg/3.png');
-    background-repeat: no-repeat;
-    background-position: top center;
-    border-radius: 30px;
-  }
+
+
 
   ${({ theme }) => theme.mediaQueries.lg} {
 
@@ -47,20 +34,7 @@ const Hero = styled.div`
     z-index: 2;
     height: 165px;
 
-    &:before {
-      content: ' ';
-      display: block;
-      position: absolute;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-      opacity: 0.6;
-      background-image: url('/images/egg/3b.png');
-    background-position: left center, right center;
-    background-repeat: no-repeat;
-    }
+    
   }
 `
 
