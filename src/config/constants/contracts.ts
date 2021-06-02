@@ -8,6 +8,9 @@ export default {
   weth: {
     137: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
   },
+  sousMasterChef: {
+    137: '0x0a5Cbf11b85B696B4C35cf8Ca5A0c3C4AdA46E63'
+  },
   lottery: {
     56: '',
     97: '',
