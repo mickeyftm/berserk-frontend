@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://quickswap.exchange/#/swap?outputCurrency=0xEd050320Cedd262a92D98EF02Bf155ACE366D49B',
+        href: 'https://quickswap.exchange/#/swap?outputCurrency=0x1062FDC16d177Ff634e39EB1871b5EFD6c81a3CF',
       },
       {
         label: 'Liquidity',
@@ -56,11 +56,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'QuickSwap',
-        href: 'https://info.quickswap.exchange/token/0xEd050320Cedd262a92D98EF02Bf155ACE366D49B',
+        href: 'https://info.quickswap.exchange/token/0x1062FDC16d177Ff634e39EB1871b5EFD6c81a3CF',
       },
       {
         label: 'QuickChart',
-        href: 'https://quickchart.app/token/0xEd050320Cedd262a92D98EF02Bf155ACE366D49B',
+        href: 'https://quickchart.app/token/0x1062FDC16d177Ff634e39EB1871b5EFD6c81a3CF',
       },
 //      {
 //        label: 'DappRadar',
