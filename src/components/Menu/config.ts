@@ -31,9 +31,9 @@ const config: MenuEntry[] = [
     href: '/pools',
   },
   {
-    label: 'Dividends',
+    label: 'Dividends (Coming soon)',
     icon: 'LayerIcon',
-    href: '/profit',
+    href: '/',
    },
   // {
   //   label: 'Devidents',
