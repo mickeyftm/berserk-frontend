@@ -47,17 +47,17 @@ const farms: FarmConfig[] = [
   //   quoteTokenAdresses: contracts.busd,
   // },
   {
-    pid: 2,
+    pid: 16,
     risk: 5,
-    isTokenOnly: true,
-    lpSymbol: 'BRSK',
+//    isTokenOnly: true,
+    lpSymbol: 'Polymyobu-lp',
     decimal: 18,
     lpAddresses: {
-      137: '0x0d1d755090b7d25fda21f5808266070fae302de7'
+      137: '0x1d28a24af41e5eade85c67e5849ff664d86951b9'
     },
-    tokenSymbol: 'GOAT',
+    tokenSymbol: 'myobu',
     tokenAddresses: {
-      137: '0x1062FDC16d177Ff634e39EB1871b5EFD6c81a3CF'
+      137: '0xf1bbf4d1ee5cc8ac1a7d50fbc2954273adb0b78c'
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.usdc,
