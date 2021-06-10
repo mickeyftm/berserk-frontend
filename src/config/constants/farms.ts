@@ -12,7 +12,7 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'GOAT',
     tokenAddresses: {
-      137: '0x1062FDC16d177Ff634e39EB1871b5EFD6c81a3CF',
+      137: '0x7bc58dd35f0545848043176e48c079857816492c',
     },
     quoteTokenSymbol: QuoteToken.USDC,
     quoteTokenAdresses: contracts.usdc,
